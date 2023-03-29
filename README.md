@@ -1,4 +1,4 @@
-# Looker Studio: Netflix Content Analysis Dashboard
+# 📺 Netflix Content Analysis Dashboard
 
 ## 👩🏻‍💼 THE SITUATION
 Suppose Netlfix wants to have an interactive business intelligence tool to analyze their data and I have been hired to make this happen!
